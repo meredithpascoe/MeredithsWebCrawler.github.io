@@ -1,0 +1,10 @@
+period,short_desc,temp,desc
+ThisAfternoon,DecreasingClouds andBreezy,High: 67 °F,"This Afternoon: Mostly cloudy, then gradually becoming sunny, with a high near 67. Breezy, with a west wind 16 to 18 mph, with gusts as high as 31 mph. "
+Tonight,Mostly Clear,Low: 40 °F,"Tonight: Mostly clear, with a low around 40. West wind 6 to 11 mph becoming light northwest  after midnight. Winds could gust as high as 20 mph. "
+Friday,Mostly SunnythenScatteredShowers,High: 58 °F,"Friday: Scattered showers after 3pm.  Partly sunny, with a high near 58. East southeast wind 6 to 10 mph.  Chance of precipitation is 30%."
+FridayNight,ScatteredShowers,Low: 46 °F,"Friday Night: Scattered showers.  Cloudy, with a low around 46. East wind around 10 mph, with gusts as high as 18 mph.  Chance of precipitation is 50%."
+Saturday,ScatteredShowers thenMostly Sunny,High: 80 °F,"Saturday: Scattered showers before 9am.  Mostly cloudy, then gradually becoming sunny, with a high near 80. Southeast wind 8 to 13 mph becoming south southwest in the afternoon. Winds could gust as high as 22 mph.  Chance of precipitation is 40%."
+SaturdayNight,Partly Cloudy,Low: 61 °F,"Saturday Night: Partly cloudy, with a low around 61."
+Sunday,Mostly SunnythenScatteredShowers andBreezy,High: 80 °F,"Sunday: Scattered showers after 3pm.  Mostly sunny, with a high near 80. Breezy.  Chance of precipitation is 40%."
+SundayNight,ShowersLikely,Low: 53 °F,"Sunday Night: Showers likely, mainly after 9pm.  Mostly cloudy, with a low around 53."
+Monday,ShowersLikely,High: 62 °F,"Monday: Showers likely, mainly before 9am.  Mostly cloudy, with a high near 62."
