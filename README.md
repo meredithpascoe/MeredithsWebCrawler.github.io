@@ -1,2 +1,2 @@
 # MeredithsWebCrawler.github.io
-GEOG 599 Lab 2 Deliverables 
+The web crawler created for this lab collects data from the National Weather Service Website. 
