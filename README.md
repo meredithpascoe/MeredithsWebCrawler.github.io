@@ -63,3 +63,4 @@ from google.colab import files
 files.download(output_file)
 print("the csv has been downloaded to your local computer. The program has been completed successfully")
 ```
+![CSV](img/CSV.PNG)
